@@ -1,0 +1,5 @@
+Type,Air temperature [K],Process temperature [K],Rotational speed [rpm],Torque [Nm],Tool wear [min],Target,Failure Type,Torque_Speed_Ratio,Wear_Temperature_Ratio
+Normal,298,320,1500,42.5,110,1,0,0.028,0.344
+Warning,310,330,1600,39.2,130,0,1,0.025,0.394
+Failure,290,315,1450,41.8,120,1,2,0.029,0.381
+Critical,305,325,1550,40.1,125,0,3,0.026,0.369
